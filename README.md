@@ -1,5 +1,4 @@
 # Movie Collection CLI
-
 Ein einfaches Python-Programm, um Filme in einer Liste zu verwalten.  
 Es ermöglicht das Hinzufügen neuer Filme, das Anzeigen aller gespeicherten Filme sowie die Suche nach einem bestimmten Titel.
 
